@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyrncrypt",
+        "uuid": 4354145,
+        "checksum": "5arxfs"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
